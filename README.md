@@ -1,5 +1,5 @@
 # Newcastle Housing Age Analysis
-Assignment for 'Programming for Spatial Data Science'
+Assignment for *Programming for Spatial Data Science*
 
 ## Overview
 This repository contains code and data that can be used to explore the relationship between median house prices and the percentage of residents aged 20-29 across LSOAs in Newcastle upon Tyne. The project contains the results of OLS regression, and both spatial and non-spatial visulisations of findings, which have been tailored to different audiences. The project workflow is documented in a Jupyter notebook which can be used to reproduce the results.
